@@ -30,7 +30,10 @@
     <ClCompile Include="Image.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Gun.cpp">
+    <ClCompile Include="Pala.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Espada.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -47,7 +50,10 @@
     <ClInclude Include="Image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Gun.h">
+    <ClInclude Include="Pala.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Espada.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
