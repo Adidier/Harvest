@@ -142,19 +142,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Azada.cpp" />
     <ClCompile Include="Cuerda.cpp" />
+    <ClCompile Include="Espada.cpp" />
     <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Gun.cpp" />
     <ClCompile Include="Image.cpp" />
     <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Pala.cpp" />
+    <ClCompile Include="Palo.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="RanchoLosPatosHermanos.cpp" />
+    <ClCompile Include="Semilla.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Azada.h" />
     <ClInclude Include="Cuerda.h" />
+    <ClInclude Include="Espada.h" />
     <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Gun.h" />
     <ClInclude Include="Image.h" />
     <ClInclude Include="Item.h" />
+    <ClInclude Include="Pala.h" />
+    <ClInclude Include="Palo.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="Semilla.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

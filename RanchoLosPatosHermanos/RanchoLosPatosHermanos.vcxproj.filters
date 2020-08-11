@@ -33,6 +33,24 @@
     <ClCompile Include="Cuerda.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Azada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Espada.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pala.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Palo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Semilla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameObject.h">
@@ -48,6 +66,24 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Cuerda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Azada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Espada.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pala.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Palo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Semilla.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
