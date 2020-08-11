@@ -142,16 +142,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Espada.cpp" />
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="Image.cpp" />
     <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Pala.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="RanchoLosPatosHermanos.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Espada.h" />
     <ClInclude Include="GameObject.h" />
     <ClInclude Include="Image.h" />
     <ClInclude Include="Item.h" />
+    <ClInclude Include="Pala.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
